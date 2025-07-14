@@ -1,0 +1,4 @@
+# Runtime dependencies (keep minimal; pin later)
+pandas>=2.1
+scikit-learn>=1.5
+pytest>=8.2

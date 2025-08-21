@@ -33,3 +33,6 @@ It’s all about making your work reproducible, shareable, and future-proof; exa
 
 ## About me
 Hi, I'm Javad.
+
+## Fun Fact
+This is a test in a new branch named fun fact!

@@ -29,10 +29,3 @@ Below we'll tell you what each file does, why you should care, and when we’ll 
 
 Use this table whenever you wonder, “Wait, what’s that file for again, and why did you make me keep it?”
 It’s all about making your work reproducible, shareable, and future-proof; exactly the skills this course is designed to build.
-
-
-## About me
-Hi, I'm Javad.
-
-## Fun Fact
-This is a test in a new branch named fun fact!

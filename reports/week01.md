@@ -1,4 +1,4 @@
-# 📅 Week X: [Topic Name]
+# 📅 Week 1: Git
 
 ## 🛠️ 1. What I Built
 - **Summary**: Created a GitHub Issue, edited README.md in VS Code to add an "About Me" section, and linked the commit to automatically close the issue.

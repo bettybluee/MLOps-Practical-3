@@ -9,15 +9,14 @@
 - **Artifact Location**: https://github.com/bettybluee/MLOps-Practical-2/blob/main/hello.txt
 - **How to Run** (if applicable):
   1. Clone the repo and navigate to scripts:
-     git clone https://github.com/bettybluee/MLOps-Practical-2
-     cd MLOps-Practical-2/my_project/scripts
+     - git clone https://github.com/bettybluee/MLOps-Practical-2
+     - cd MLOps-Practical-2/my_project/scripts
   2. Make the script executable:
-     chmod +x prep_data.sh
+     - chmod +x prep_data.sh
   3. Run with Makefile:
-     make prep   # prepare data
-     make clean  # remove data
-     make all    # clean + prepare  
-
+     - make prep   # prepare data
+     - make clean  # remove data
+     - make all    # clean + prepare  
   - **Expected output:** data/iris.csv is downloaded and one synthetic row is added → final dataset has 152 rows.
 
 ## 🔍 2. My Exploration

@@ -38,7 +38,7 @@
   - The guidance was a bit confusing at first (Windows vs. macOS shortcuts) and could mislead one to expect Ruff messages in Problems, making the process feel black-boxy.
 
 ## 💬 4. Reflection
-- This week’s work strengthened reproducibility by automating data preparation and cleanup, ensuring that anyone cloning the repository can reproduce the exact dataset and environment setup. Integrating the Makefile made running scripts consistent and error-free.
+This week’s work strengthened reproducibility by automating data preparation and cleanup, ensuring that anyone cloning the repository can reproduce the exact dataset and environment setup. Integrating the Makefile made running scripts consistent and error-free.
 
 The most interesting part was debugging the Makefile and shell script integration—it highlighted the importance of correct paths and task definitions. The Git workflow also reinforced best practices for version control.
 
